@@ -6,12 +6,12 @@
 
 ## Description
 
-_This website functions as a basic calculator using JavaScript, HTML, and CSS._
+_This website functions as a basic calculator using JavaScript, HTML, and CSS. You can select which operator to use, then input numbers, to receive an answer._
 
 ## Setup/Installation Requirements
 
 1. _Open the webpage_
-2. _Follow the prompts to select what operator you would like to use_
+2. _Follow the prompts to select what operator you would like to use_a
 3. _Follow the prompts to input numbers_
 4. _See your calculated results_
 
