@@ -1,20 +1,19 @@
 # Calculator
 
-#### Week 2, Lesson 29 Exercise 10.19.2020
+#### Week 2, Lesson 48 Exercise 10.21.2020
 
-#### **By Chelsea Becker, Joseph Giunta, and Constantine Yakubovski**
+#### **By Chelsea Becker, Joseph Giunta, Constantine Yakubovski, and Max Brockbank**
 
 ## Description
 
-_This website functions as a basic calculator using JavaScript, HTML, and CSS. You can select which operator to use, then input numbers, to receive an answer._
+_This website functions as a basic calculator using JavaScript, HTML, and CSS languages. You can select which operator to use, then input numbers to receive an answer._
 
 ## Setup/Installation Requirements
 
 1. _Open the webpage_
-2. _Follow the prompts to select what operator you would like to use_a
-3. _Follow the prompts to input numbers_
+2. _Choose which operation you would like to use_
+3. _Input numbers for selected operation_
 4. _See your calculated results_
-
 
 ## Known Bugs
 
@@ -30,9 +29,11 @@ _VS Code_ <br />
 _HTML_ <br />
 _CSS_ <br />
 _JavaScript_ <br />
+_Bootstrap_ <br />
+_JQuery_
 
 ## Legal
 
 *This software is licensed under the MIT license.*
 
-Copyright (c) 2020 **Chelsea Becker, Joseph Giunta, Constantine Yakubovski**
+Copyright (c) 2020 **Chelsea Becker, Joseph Giunta, Constantine Yakubovski, Max Brockbank**
