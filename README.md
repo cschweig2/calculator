@@ -1,6 +1,6 @@
 # Calculator
 
-#### Week 2, Lesson 48 Exercise 10.21.2020
+#### Week 2 Exercise 10.22.2020
 
 #### **By Chelsea Becker, Joseph Giunta, Constantine Yakubovski, and Max Brockbank**
 
